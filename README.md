@@ -1,4 +1,4 @@
-# Smart-Contract-Project
+# Smart-Contract-Project (Module 3)
 
 This program is for write a smart contract to create own ERC20 token and deploy it using Remix .The contract owner should be able to mint tokens to a provided address and any user should be able to burn and transfer tokens.
 
